@@ -1,2 +1,4 @@
 # CV005
-课程笔记及作业
+用于课程笔记及作业
+
+openCV  https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
